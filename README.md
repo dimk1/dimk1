@@ -22,7 +22,9 @@ protocol performance, cryptographic hardware, and the standards that decide what
 
 - M. Sosnowski, **D. Schoinianakis** et al., "The Performance of Post-Quantum TLS 1.3," *ACM CoNEXT*, 2023 — OpenSSL instrumentation and kernel-level profiling of post-quantum handshakes
 - **D. Schoinianakis**, "Residue arithmetic systems in cryptography: a survey," *Journal of Cryptographic Engineering*, 10(3), 2020
-- "NTT accelerators for post-quantum cryptography," *Microprocessors and Microsystems*, 124(B), 2026
+- **D. Schoinianakis** et al., “Compressed FHE: Accelerating Encrypted Matrix Multiplication in CKKS with Precision-Balanced Low-Rank Factor Chains,” _IACR Communications in
+Cryptology_, Volume 3, Issue 2, 2026.
+- G. Alexakis, **D. Schoinianakis**, G. Dimitrakopoulos, “High-performance NTT accelerators for PQC leveraging Unified Redundant Arithmetic and Fine-Tuned Microarchitecture,” _Microprocessors and Microsystems_, Volume 124, Part B, 2026.
 
 35+ peer-reviewed papers · 3 Springer research books · 900+ citations · 7 granted patents
 
