@@ -3,7 +3,7 @@
 Cryptography and security researcher — Distinguished Member of Technical Staff (DMTS), Nokia Bell Labs.
 PhD in Electrical & Computer Engineering, University of Patras (2014). IEEE Senior Member.
 
-I work on applied cryptography, post-quantum crypto, privacy preserving technologies (FHE) and lately on optimizing AI KV cache workloads. CTO level advisor for PQC migration, presenter to the Board of Directors in Nokia.
+I work on applied cryptography, post-quantum crypto, privacy preserving technologies (FHE), cryptographic hardware design, and lately on optimizing AI KV cache workloads. CTO level advisor for PQC migration.
 
 ### Research focus
 
