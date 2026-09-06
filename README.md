@@ -17,7 +17,7 @@ I work on applied cryptography, post-quantum crypto, privacy preserving technolo
 - Co-author, **[IETF RFC 9958](https://www.rfc-editor.org/rfc/rfc9958.html)** — *Post-Quantum Cryptography for Engineers*
 - Contributor, **3GPP SA3 / RAN2**, **ORAN** and **ETSI**
 
-### Code * Artifacts
+### Code & Artifacts
 - [tumi8/pqs-tls-measurements](https://github.com/tumi8/pqs-tls-measurements) — the artifact repository for The Performance of Post-Quantum TLS 1.3 (ACM CoNEXT 2023), which I co-authored. Measurement data, analysis and plotting for the post-quantum handshake study. Published by the TUM I8 chair under CC-BY-4.0.
 - [LEGO Robot-arm](https://www.hackster.io/dsxoiniana/lego-technics-robot-arm-a3f3cc) built with LEGO technics only, controlled with MQTT commands over WiFi with Node MCU and Adafruit Motor Shields. Used to demonstrate Cyber-Physical IoT security concepts.
 
